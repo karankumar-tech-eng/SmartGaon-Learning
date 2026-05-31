@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1779546847584",
+    "fullName": "rahul kumar",
+    "email": " rahul@test.com",
+    "password": "$2b$10$4HATUMrLbAV7OU7t9MeXT.mDpz1n3VgqJXcTxqdt7UkbRCa0.uiO2",
+    "studentClass": "10",
+    "language": "English",
+    "role": "Student"
+  },
+  {
+    "id": "1779612779797",
+    "fullName": "karan kumar",
+    "email": "rahul@test.com",
+    "password": "$2b$10$MqkSthQenP/dHWoLGIwBN.z4gt3FvjCyykIwNjoCjz4xFg6Od/fom",
+    "studentClass": "",
+    "language": "English",
+    "role": "Student"
+  },
+  {
+    "id": "1780041474712",
+    "fullName": "karan kumar",
+    "email": "karan746287@gmail.com",
+    "password": "$2b$10$9g6GgVslHntd/LdkU/mS5uJA1q.skjViseX7nG2nNrNbvO2I/7AGi",
+    "studentClass": "",
+    "language": "English",
+    "role": "Student"
+  }
+]
